@@ -1,7 +1,7 @@
 FROM debian:9.5-slim
 
 # Maintainer
-MAINTAINER Andreas Peters <support@aventer.biz>
+MAINTAINER Angel <ugeekpodcast@gmail.com>
 
 # install homerserver template
 COPY adds/start.sh /start.sh
